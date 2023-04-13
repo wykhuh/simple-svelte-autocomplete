@@ -1,3 +1,5 @@
+Foo. 
+
 # Simple Svelte Autocomplete
 
 Autocomplete / Select / Typeahead component made with [Svelte](https://svelte.dev/)
